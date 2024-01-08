@@ -1,2 +1,2 @@
-# febog.com
-My personal website source code.
+# Personal website
+Source code for febog.com
